@@ -1,4 +1,4 @@
-# This Cloudflare Worker fetches external API
+# Cloudflare Worker to fetches external API
 
 # overview
  Cloudflare Workers function  fetches data from an external API (https://jsonplaceholder.typicode.com/todos/1) and returns it as a response with the correct content-type header.
