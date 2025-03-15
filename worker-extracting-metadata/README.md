@@ -1,6 +1,6 @@
 # Cloudflare Worker - CF Data Fetcher
 
-This Cloudflare Worker retrieves Cloudflare-provided request metadata (`cf` object) and returns it as a JSON response.
+This Cloudflare Worker retrieves Cloudflare-provided request metadata (`cf` object) and  then returns it as a JSON response.
 
 # Features
  Extracts request metadata from the `cf` object.
