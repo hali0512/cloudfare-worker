@@ -1,3 +1,7 @@
+// This Cloudflare Worker serves an HTML page and a CSS file while 
+// optimizing loading performance using Early Hints.
+
+
 import { CSS, HTML } from "./constant";
 export default {
   async fetch(req) {
